@@ -1,0 +1,1 @@
+react-native-camera : reference - https://snowball.digital/blog/capturing-pictures-in-react-native 

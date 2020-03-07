@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000858245200",
+    "firebase_url": "https://bmf-admin-panel.firebaseio.com",
+    "project_id": "bmf-admin-panel",
+    "storage_bucket": "bmf-admin-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000858245200:android:ff52484741edb512",
+        "android_client_info": {
+          "package_name": "in.bringmyfood.bmfrunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000858245200-p9ulp3dnnht37s98a9etnqga9djrts54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDChqusxl2JytWSby1QWHlUXvF6JKLg4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
